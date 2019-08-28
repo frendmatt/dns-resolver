@@ -10,3 +10,6 @@ line command:
 ```
 C:\...\(Path to mydig.py)> python mydig.py www.cs.stonybrook.edu
 ```
+### Data:
+
+I included an excel sheet where I tested my DNS Resolver against Ubuntu's local resolver and Google's Resolver. I tested my program on the top 25 sites as listed on https://www.alexa.com/topsites. I found that although my DNS Resolver was not as fast as the other two resolvers, it was just as reliable in obtaining results. I found this to be a major success for my first time network programming.
