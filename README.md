@@ -1,4 +1,4 @@
-# dns_resolver
+# dns-resolver
 DNS resolver from CSE 310 (Computer Networks)
 ### How to run:
 
